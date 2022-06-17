@@ -57,5 +57,9 @@ Basic Git Commands
 
 14) git merge branch_name
 
+15) git config --list - 
 
+16) git config --global user.email "youremail"
+
+17) git remote -v -
 
